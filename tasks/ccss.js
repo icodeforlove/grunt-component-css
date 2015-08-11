@@ -7,7 +7,7 @@ var fs = require('fs'),
 	Cubby = require('cubby'),
 	cache = new Cubby({file: '.ccsscache'}),
 	path = require('path'),
-	ccss = require('component-css');
+	ccss = require('node-component-css');
 
 var CCSSTask = PromiseObject.create({
 	initialize: function (files, dest, callback) {

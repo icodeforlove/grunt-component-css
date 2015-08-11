@@ -1,4 +1,4 @@
-# grunt-react-rcs
+# grunt-component-css
 
 A grunt task that compiles your Component CSS to css.
 

@@ -1,6 +1,6 @@
 {
   "name": "grunt-component-css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A grunt task that compiles your Component CSS to CSS.",
   "main": "tasks/ccss.js",
   "dependencies": {
