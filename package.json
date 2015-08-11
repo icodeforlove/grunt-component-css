@@ -1,13 +1,13 @@
 {
   "name": "grunt-component-css",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A grunt task that compiles your Component CSS to CSS.",
-  "main": "index.js",
+  "main": "tasks/ccss.js",
   "dependencies": {
     "colors": "^1.1.2",
-    "component-css": "0.0.6",
     "cubby": "0.0.3",
     "glob": "^5.0.14",
+    "node-component-css": "0.0.3",
     "promise-object": "^0.1.5",
     "whenplus": "^1.7.1-g"
   },
