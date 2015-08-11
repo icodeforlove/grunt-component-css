@@ -1,5 +1,4 @@
 var fs = require('fs'),
-	RCS = require('react-rcs'),
 	glob = require('glob'),
 	path = require('path'),
 	colors = require('colors'),
